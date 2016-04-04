@@ -1,4 +1,4 @@
-# :eyeglasses: [Voter Information](http://karenfreemansmith.github.io/voting) :memo:
+# :white_check_mark: [Voter Information](http://karenfreemansmith.github.io/voting) :clipboard:
 ![project screenshot](/img/screenshot.jpg)
 
 __Version 1: March 31, 2016__
