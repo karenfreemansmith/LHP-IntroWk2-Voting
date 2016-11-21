@@ -11,21 +11,22 @@ __*Website to provide voter information*__
 A website to provide voter information based on age. If they are a first time voter, there
 is a survey to see what party they would best fit in.
 
-### Setup/Installation
-*None required. Clone or download and extract to use*
+## Technologies Used
+HTML, CSS
 
-### Support & Contact
-For questions or comments, please __email [Karen](karenfreemansmith@gmail.com)__
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### Known Issues
-* Boring, needs some color or graphics and more filler text.
-* Could use a few more questions on which party survey.
-* Show results on modal form instead of alert box.
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-### Technologies Used
-###### HTML, CSS, Bootstrap, JavaScript, jQuery
+## Known Issues
+* None
 
-### Legal
+## Legal
 *Licensed under the GNU General Public License v3.0*
 
-Copyright (c) 2016 **_Karen Freeman-Smith_**
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
