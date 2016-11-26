@@ -1,23 +1,19 @@
-# :white_check_mark: [Voter Information](http://karenfreemansmith.github.io/voting) :clipboard:
-![project screenshot](/img/screenshot.jpg)
+# Voter Information
+Version 0.0.1: March 31, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: March 31, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*Website to provide voter information*__
-
-A website to provide voter information based on age. If they are a first time voter, there
-is a survey to see what party they would best fit in.
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A website to provide voter information based on age. If they are a first time voter, there is a survey to see what party they would best fit in.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-Voting)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
